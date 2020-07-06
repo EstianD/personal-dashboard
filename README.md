@@ -13,11 +13,11 @@ Installs dependancies for app.
 
 To run this app you will need to add a few things to the .env file.
 
-MONGODB_URI=mongodb://localhost:27017/personal-dashboard-db
-STRAVA_CLIENT_ID=
-STRAVA_CLIENT_SECRET=
-SESSION_KEY=
-PORT=4000
+MONGODB_URI=mongodb://localhost:27017/personal-dashboard-db<br />
+STRAVA_CLIENT_ID=<br />
+STRAVA_CLIENT_SECRET=<br />
+SESSION_KEY=<br />
+PORT=4000<br />
 
 ## Scripts
 
