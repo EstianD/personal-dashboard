@@ -1,7 +1,14 @@
 ## Project Description
 
 The Dashboard is a visualization tool that displays your activity details retrieved from the Strava API. It displays all activities recorded on strava and displays your callories burned for those activities. You can filter through your data by specified date. As my activity is mostly focused around running and cycling, I have added widgets that displays those data seperately at the top.
-There are navigation links in a sidebar pointing to nutrition, blood and sleep. These are stats that are not yet added but I want to still incorporate into the dashboard in the future.
+There are navigation links in a sidebar pointing to nutrition, blood and sleep. These are stats that are not yet added but I want to still incorporate into the dashboard in the future.<br/>
+This project makes use of:<br/><br/>
+
+Node.js<br/>
+Strava OAuth<br/>
+Passport<br/>
+EJS<br/>
+MongoDB<br/>
 
 ## Running the App
 
