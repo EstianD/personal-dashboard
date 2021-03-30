@@ -6,6 +6,7 @@ This project makes use of:<br/><br/>
 
 ## Demo 
 [here](http://pd.webdev-pg.com/login)
+<br/>
 (<b>You need a Strava account to use this App</b>) 
 
 ## Project uses:
