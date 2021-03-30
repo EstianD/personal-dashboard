@@ -4,6 +4,9 @@ The Dashboard is a visualization tool that displays your activity details retrie
 There are navigation links in a sidebar pointing to nutrition, blood and sleep. These are stats that are not yet added but I want to still incorporate into the dashboard in the future.<br/>
 This project makes use of:<br/><br/>
 
+## Demo 
+[here](http://pd.webdev-pg.com/login)
+
 Node.js<br/>
 Strava OAuth<br/>
 Passport<br/>
