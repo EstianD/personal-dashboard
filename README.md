@@ -7,6 +7,8 @@ This project makes use of:<br/><br/>
 ## Demo 
 [here](http://pd.webdev-pg.com/login)
 
+## Project uses:
+
 Node.js<br/>
 Strava OAuth<br/>
 Passport<br/>
